@@ -7,8 +7,11 @@ Projeto básico de uma Agenda !
     * HTML
 
 Funcionalidades:
+    <br/>
     * Inserção
+    <br/>
     * Adição
+    <br/>
     * Remoção
 
-<img src="[https://imgur.com/a/KeYLh8e](https://imgur.com/a/KeYLh8e)" alt="Agenda">
+

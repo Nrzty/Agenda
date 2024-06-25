@@ -9,6 +9,8 @@ Projeto básico de uma Agenda !
     * CSS
     <br/>
     * HTML
+    <br/>
+    * MYSQL
 
 Funcionalidades:
     <br/>
